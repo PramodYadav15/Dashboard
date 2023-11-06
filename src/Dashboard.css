@@ -1,0 +1,44 @@
+.paddingall{
+    padding: 10px 10px 10px 10px;
+}
+
+.pricetittle{
+    font-weight: 600;
+}
+
+.pricesubtittle{
+    font-size: 14px;
+}
+
+.iconstylee{
+    margin-top: 20px !important;
+    margin-left: 20px !important;
+    color: aliceblue;
+}
+
+.iconstyleeblack{
+    margin-top: 20px !important;
+    margin-left: 20px !important;
+    color: black;
+}
+
+.gradient{
+    background: rgb(113, 103, 128);
+    background: linear-gradient(158deg, rgb(83, 62, 111) 0%, rgb(23, 19, 39) 100% );
+}
+
+/* .gradient{
+    background: #A05Aff;
+    background:  radial-gradient( #4BCBEB 20%, #4E9496 30% , #9E58FF 40%);
+} */
+
+.gradientlight{
+    background: rgb(53, 138, 148);
+    background: linear-gradient(158deg, rgba(53, 138, 148, 1) 0%, rgba(91, 180, 96, 1) 100% );
+}
+
+.bgcolor{
+    min-height: 100vh;
+    background: #ECEFF1;
+    background: linear-gradient(158deg, rgb(224, 224,244) 05, rrgb(233, 237, 254)100%);
+}
